@@ -1,0 +1,9 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"dfvfsadg.c" LINE:155
+lcd_putsf DSTACK_USAGE:3 DSTACK_LEVEL:3 FILE:"F:\cvavr\lib\lcd.lib" LINE:217
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:4 FILE:"F:\cvavr\lib\lcd.lib" LINE:178
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:6 FILE:"F:\cvavr\lib\lcd.lib" LINE:158
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:7 FILE:"F:\cvavr\lib\lcd.lib" LINE:77
+usart_rx_isr DSTACK_USAGE:16 DSTACK_LEVEL:23 FILE:"dfvfsadg.c" LINE:64
+lcd_putchar DSTACK_USAGE:1 DSTACK_LEVEL:24 FILE:"F:\cvavr\lib\lcd.lib" LINE:178
+lcd_gotoxy DSTACK_USAGE:2 DSTACK_LEVEL:26 FILE:"F:\cvavr\lib\lcd.lib" LINE:158
+_lcd_write_data DSTACK_USAGE:1 DSTACK_LEVEL:27 FILE:"F:\cvavr\lib\lcd.lib" LINE:77

@@ -1,0 +1,30 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+_seed                                                                             0x0168       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+adc_isr                                                                           0x0007C    143
+main                                                                              0x0010B     34
+putchar                                                                           0x0012D      7
+puts                                                                              0x00134     18
+put_usart_G100                                                                    0x00146     13
+_ftoe_G100                                                                        0x00153    212
+_print_G100                                                                       0x00227    541
+printf                                                                            0x00444     37
+strcpyf                                                                           0x00469     13
+strlen                                                                            0x00476     12
+strlenf                                                                           0x00482     13
+ftrunc                                                                            0x0048F     49
+floor                                                                             0x004C0     23
+ftoa                                                                              0x004D7    161
